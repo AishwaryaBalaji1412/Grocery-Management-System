@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.*
+
+# Maven build files
+target/
+
+# Java compiled files
+*.class
+
+# Mac system files
+.DS_Store
